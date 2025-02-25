@@ -1,9 +1,10 @@
 import React from 'react'
+import Home from './pages/Home/home'
 
 function App() {
   return (
     <div>
-      <h1>hello Netflix</h1>
+      <Home/>
     </div>
   )
 }
